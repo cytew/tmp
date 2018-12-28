@@ -1,2 +1,3 @@
-#My first Repo
-*Hello Git!
+# My first Repo
+* Hello Git!
+* I'm Kim!
